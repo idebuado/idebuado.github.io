@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://idebuado.github.io/NTP/sitemap_index.txt
+Sitemap: https://idebuado.github.io/Qrc/sitemap_index.txt
+Sitemap: https://idebuado.github.io/ces/sitemap_index.txt
+Sitemap: https://idebuado.github.io/jnR/sitemap_index.txt
